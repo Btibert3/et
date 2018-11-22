@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "btibert3@gmail.com")
 Description: Utilities for working with Phone Numbers and related APIs like TextMagic and Twilio.
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
