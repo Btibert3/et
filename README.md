@@ -2,7 +2,7 @@
 
 ET phone home.
 
-Various functions to help working with phonenumber data.
+Various functions to help working with phone number data.
 
 ## Installation
 
